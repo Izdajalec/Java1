@@ -1,4 +1,5 @@
-public class Saludar
+package inicio;
+public class Nombre
 {
         public static void main(String args[])
         {
